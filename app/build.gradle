@@ -73,6 +73,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version") {
         transitive = true
     }
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
 }
 
 // Themers, do not touch this! This is our function to help us encrypt your assets!
@@ -173,3 +174,5 @@ boolean shouldEncrypt() {
 repositories {
     mavenCentral()
 }
+
+apply plugin: 'kotlin-android-extensions'

@@ -1,0 +1,15 @@
+<resources>
+    <string name="ShortcutDisabled">Disabled</string>
+
+    <string name="byThemeAuthor">by Domi04151309 and lucx1</string>
+    <string name="TextView">A purple theme for your android device.</string>
+    <string name="OpenSubs">Open Substratum</string>
+    <string name="Shutdown">Shutdown</string>
+    <string name="Reboot">Reboot</string>
+
+    <string name="powerOptions">Power Options</string>
+    <string name="SoftReboot">Soft Reboot</string>
+    <string name="Recovery">Reboot Recovery</string>
+    <string name="Bootloader">Reboot Bootloader</string>
+    <string name="ScreenOff">Turn Screen off</string>
+</resources>

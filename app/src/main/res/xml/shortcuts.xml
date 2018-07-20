@@ -1,0 +1,15 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="openTheme"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/OpenSubs"
+        android:shortcutLongLabel="@string/OpenSubs"
+        android:shortcutDisabledMessage="@string/ShortcutDisabled">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="projekt.substratum"
+            android:targetClass="projekt.substratum.LauncherActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
