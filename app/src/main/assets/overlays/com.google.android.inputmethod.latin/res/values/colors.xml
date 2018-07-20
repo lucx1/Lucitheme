@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorChordedTrackMaterialDarkTheme">#ff6c1175</color>
+    <color name="ColorChordedTrackMaterialLightTheme">#ff6c1175</color>
+    <color name="ColorGestureTrackMaterialDarkTheme">#ff6c1175</color>
+    <color name="ColorGestureTrackMaterialLightTheme">#ff6c1175</color>
+    <color name="default_green">#ff6c1175</color>
+    <color name="label_popup_pressed_material_dark_theme">#ff6c1175</color>
+    <color name="label_popup_pressed_material_light_theme">#ff6c1175</color>
+    <color name="material_deep_teal_200">#ff6c1175</color>
+    <color name="material_deep_teal_500">#ff6c1175</color>
+    <color name="tutorial_tip_desc_green">#ff6c1175</color>
+    <color name="base_material_dark_theme">#ff2d2d2d</color>
+    <color name="base_material_light_theme">@android:color/white</color>
+    <color name="candidate_material_dark_theme">#ff373737</color>
+    <color name="candidate_material_light_theme">#ffeeeeee</color>
+    <color name="popup_background_material_dark_theme">#ff373737</color>
+    <color name="popup_background_material_light_theme">#ffeeeeee</color>
+	<color name="key_action_bordered_dark_theme">#ff6c1175</color>
+    <color name="key_action_bordered_light_theme">#ff6c1175</color>
+    <color name="key_action_pressed_bordered_dark_theme">@android:color/holo_green_dark</color>
+    <color name="key_action_pressed_bordered_light_theme">@android:color/holo_green_dark</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_temperature_text_color">#ff6c1175</color>
+    <color name="status_bar_temperature_location_text_color">#ff6c1175</color>
+    <color name="system_bar_background_opaque">#ffe0e0e0</color>
+</resources>

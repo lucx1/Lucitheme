@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="detail_primary_text">#ff6c1175</color>
+    <color name="fingerprint_success_color">#ff6c1175</color>
+    <color name="highlighted_text_material_dark">#664285f4</color>
+    <color name="highlighted_text_material_light">#664285f4</color>
+    <color name="material_deep_teal_200">#ff6c1175</color>
+    <color name="material_deep_teal_500">#ff6c1175</color>
+    <color name="play_uninstall_wizard_button_text_color">#ff6c1175</color>
+</resources>
