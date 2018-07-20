@@ -1,4 +1,4 @@
-package substratum.theme.template
+package com.lucx1.substratum.lucitheme
 
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -9,9 +9,9 @@ import android.content.pm.Signature
 import android.net.Uri
 import android.os.RemoteException
 import android.widget.Toast
-import substratum.theme.template.AdvancedConstants.BLACKLISTED_APPLICATIONS
-import substratum.theme.template.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
-import substratum.theme.template.AdvancedConstants.OTHER_THEME_SYSTEMS
+import com.lucx1.substratum.lucitheme.AdvancedConstants.BLACKLISTED_APPLICATIONS
+import com.lucx1.substratum.lucitheme.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
+import com.lucx1.substratum.lucitheme.AdvancedConstants.OTHER_THEME_SYSTEMS
 
 @Suppress("ConstantConditionIf")
 object ThemeFunctions {

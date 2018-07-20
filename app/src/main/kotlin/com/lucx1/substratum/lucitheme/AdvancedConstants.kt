@@ -1,4 +1,4 @@
-package substratum.theme.template
+package com.lucx1.substratum.lucitheme
 
 object AdvancedConstants {
 

@@ -1,6 +1,6 @@
 @file:Suppress("ConstantConditionIf")
 
-package substratum.theme.template
+package com.lucx1.substratum.lucitheme
 
 import android.app.Activity
 import android.content.Context
@@ -16,24 +16,24 @@ import com.github.javiersantos.piracychecker.enums.InstallerID
 import com.github.javiersantos.piracychecker.enums.PiracyCheckerCallback
 import com.github.javiersantos.piracychecker.enums.PiracyCheckerError
 import com.github.javiersantos.piracychecker.enums.PirateApp
-import substratum.theme.template.AdvancedConstants.ENFORCE_MINIMUM_SUBSTRATUM_VERSION
-import substratum.theme.template.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
-import substratum.theme.template.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.OTHER_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
-import substratum.theme.template.AdvancedConstants.SHOW_LAUNCH_DIALOG
-import substratum.theme.template.AdvancedConstants.SUBSTRATUM_FILTER_CHECK
-import substratum.theme.template.ThemeFunctions.SUBSTRATUM_PACKAGE_NAME
-import substratum.theme.template.ThemeFunctions.checkSubstratumIntegrity
-import substratum.theme.template.ThemeFunctions.getSelfSignature
-import substratum.theme.template.ThemeFunctions.getSelfVerifiedIntentResponse
-import substratum.theme.template.ThemeFunctions.getSelfVerifiedPirateTools
-import substratum.theme.template.ThemeFunctions.getSelfVerifiedThemeEngines
-import substratum.theme.template.ThemeFunctions.getSubstratumFromPlayStore
-import substratum.theme.template.ThemeFunctions.getSubstratumUpdatedResponse
-import substratum.theme.template.ThemeFunctions.hasOtherThemeSystem
-import substratum.theme.template.ThemeFunctions.isCallingPackageAllowed
-import substratum.theme.template.ThemeFunctions.isPackageInstalled
+import com.lucx1.substratum.lucitheme.AdvancedConstants.ENFORCE_MINIMUM_SUBSTRATUM_VERSION
+import com.lucx1.substratum.lucitheme.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
+import com.lucx1.substratum.lucitheme.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
+import com.lucx1.substratum.lucitheme.AdvancedConstants.OTHER_THEME_SYSTEMS
+import com.lucx1.substratum.lucitheme.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
+import com.lucx1.substratum.lucitheme.AdvancedConstants.SHOW_LAUNCH_DIALOG
+import com.lucx1.substratum.lucitheme.AdvancedConstants.SUBSTRATUM_FILTER_CHECK
+import com.lucx1.substratum.lucitheme.ThemeFunctions.SUBSTRATUM_PACKAGE_NAME
+import com.lucx1.substratum.lucitheme.ThemeFunctions.checkSubstratumIntegrity
+import com.lucx1.substratum.lucitheme.ThemeFunctions.getSelfSignature
+import com.lucx1.substratum.lucitheme.ThemeFunctions.getSelfVerifiedIntentResponse
+import com.lucx1.substratum.lucitheme.ThemeFunctions.getSelfVerifiedPirateTools
+import com.lucx1.substratum.lucitheme.ThemeFunctions.getSelfVerifiedThemeEngines
+import com.lucx1.substratum.lucitheme.ThemeFunctions.getSubstratumFromPlayStore
+import com.lucx1.substratum.lucitheme.ThemeFunctions.getSubstratumUpdatedResponse
+import com.lucx1.substratum.lucitheme.ThemeFunctions.hasOtherThemeSystem
+import com.lucx1.substratum.lucitheme.ThemeFunctions.isCallingPackageAllowed
+import com.lucx1.substratum.lucitheme.ThemeFunctions.isPackageInstalled
 
 /**
  * NOTE TO THEMERS
